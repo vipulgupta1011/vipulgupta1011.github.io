@@ -93,14 +93,13 @@ a {
 }
 
 .profile_pic_container {
-	width: 100%;
 	margin-top: 58px;
 	display: inline-block;
 	font-family: "Montserrat";
 }
 
 #profile_pic {
-	margin-left:25px;
+	margin-left:15px;
 	margin-right: 10px;
 	display: inline-block;
 }
