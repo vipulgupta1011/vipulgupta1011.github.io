@@ -11,7 +11,7 @@
 
 
 .navbar_height {
-	height: 120px;
+	height: 60px;
 }
 
 
@@ -78,7 +78,7 @@ a {
 
 .header {
 	color: black;
-	padding: 1000px;
+	padding: 10px;
 	margin-left: 25px ;
 	font-family: "Montserrat";
 	font-weight:400;
