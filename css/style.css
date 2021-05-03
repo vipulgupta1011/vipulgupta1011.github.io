@@ -322,13 +322,15 @@ footer .theme-by {
 	transition: all 0.2s ease-in-out;
 	display: flex;
 	justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .social-menu i:before {
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
-        font-weight: 400;
+    font-weight: 400;
 }
 
 .social-menu a {
