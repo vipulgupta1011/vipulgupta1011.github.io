@@ -225,12 +225,12 @@ h1 {
 
 footer {
   padding: 3000px 0;
-  background: #F5F5F5;
-  /*border-top: 1px #EAEAEA solid;
+  /*background: #F5F5F5;
+  border-top: 1px #EAEAEA solid;
   margin-top: 50px;*/
   font-size: 18px;
   margin: auto;
-  width: 40%;
+  width: 35%;
 }
 
 footer a {
