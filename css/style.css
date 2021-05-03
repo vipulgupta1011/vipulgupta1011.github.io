@@ -229,6 +229,8 @@ footer {
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;*/
   font-size: 18px;
+  margin: auto;
+  width: 50%;
 }
 
 footer a {
@@ -236,8 +238,6 @@ footer a {
 }
 
 footer .list-inline {
-  margin: auto;
-  width: 50%;
   padding: 0;
 }
 footer .copyright {
