@@ -28,13 +28,13 @@
 
 
 .navbar_height {
-	height: 160px;
+	height: 260px;
 }
 
 
 .nav_ul {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
   list-style-type: none;
   margin: 0px;
   overflow: hidden;
