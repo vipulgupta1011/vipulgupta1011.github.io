@@ -162,48 +162,12 @@ a {
 	font-weight: 300;
 	border-radius: 3px;
 }
-/*
-.fa{
-    display:inline-block;
-    font:normal normal normal 14px/1 FontAwesome;
-    font-size:inherit;
-    text-rendering:auto;
-    -webkit-font-smoothing:antialiased;
-    -moz-osx-font-smoothing:grayscale}
-.fa-circle:before{content:"\f111"}
-.fa-twitter:before{
-    content:"\f099";}
-
-.fa-lg{
-    font-size:1.33333333em;
-    line-height:.75em;
-    vertical-align:-15%}
-
-.fa-stack{
-    position:relative;
-    display:inline-block;
-    width:2em;
-    height:2em;
-    line-height:2em;
-    vertical-align:middle}
-  
-.fa-stack-1x{
-    line-height:inherit}
-
-.fa-stack-2x{
-    position:absolute;
-    left:0;width:100%;
-    font-size:2em;
-    text-align:center}
-
-.fa-inverse{color:#fff}
-*/
 
 h1 {
 	color: black;
 	display: block;
 	padding: 10px 10px 10px 30px;
-	font-size: 50px;
+	font-size: 60px;
 	font-family: "Montserrat";
 	font-weight:300;
 	margin: 15px;
