@@ -148,7 +148,7 @@ a {
 	padding: 20px 0px 0px 40px;
 	margin: 15px;
 	font-size: 18px;
-	font-family: "Georgia", Georgia, serif;
+	font-family: "Garamond", Garamond, serif;
 	font-weight: 300;
 	border-radius: 3px;
 }
@@ -169,7 +169,7 @@ h1 {
 	display: block;
 	padding: 10px 10px 10px 30px;
 	font-size: 60px;
-	font-family: "Montserrat";
+	font-family: "Garamond", Garamond, serif;
 	font-weight:300;
 	margin: 15px;
     margin-top: 0;
@@ -182,7 +182,7 @@ h1 {
 	padding: 10px 10px 10px 30px;
 	margin: 15px;
 	font-size: 15px;
-	font-family: "Montserrat";
+	font-family: "Garamond", Garamond, serif;
 	font-weight:300;
 	width: fit-content;
 }
