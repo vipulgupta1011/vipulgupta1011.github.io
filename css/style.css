@@ -111,7 +111,8 @@ a {
 }
 
 .profile_pic_container {
-	margin-top: 58px;
+	margin-top: 65px;
+    margin-bottom:25px;
 	display: inline-block;
 	font-family: "Montserrat";
 }
@@ -144,10 +145,10 @@ a {
 .sm-text {
 	color: black;
 	display: block;
-	padding: 10px 0px 0px 30px;
+	padding: 20px 0px 0px 40px;
 	margin: 15px;
-	font-size: 17px;
-	font-family: "Montserrat";
+	font-size: 18px;
+	font-family: "Georgia", Georgia, serif;
 	font-weight: 300;
 	border-radius: 3px;
 }
