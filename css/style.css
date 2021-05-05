@@ -152,9 +152,20 @@ a:focus {
 .sm-text {
 	color: black;
 	display: block;
-	padding: 20px 0px 0px 40px;
+	padding: 10px 0px 0px 40px;
 	margin: 5px;
 	font-size: 18px;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	border-radius: 3px;
+}
+
+.sm-text-new {
+	color: black;
+	display: block;
+	padding: 10px 0px 0px 40px;
+	margin: 5px;
+	font-size: 20px;
 	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: 300;
 	border-radius: 3px;
