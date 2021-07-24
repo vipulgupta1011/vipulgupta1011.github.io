@@ -169,6 +169,16 @@ a:focus {
 	border-radius: 3px;
 }
 
+.sm-text-project {
+	color: black;
+	display: block;
+	padding: 10px 0px 0px 40px;
+	margin: 5px;
+	font-size: 18px;
+	font-weight: 300;
+	border-radius: 3px;
+}
+
 .sm-text-new {
 	color: black;
 	display: block;
