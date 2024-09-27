@@ -33,6 +33,7 @@ body {
 .profile-info {
     flex: 1;
     max-width: 700px;
+	font-size: 19px;
 }
 
 .profile-info h2 {
