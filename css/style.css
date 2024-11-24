@@ -355,8 +355,8 @@ ol li {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	width: 70px;
-	height: 70px;
+	width: 60px;
+	height: 60px;
 	border-radius: 50%;
 	transition: transform 0.3s ease;
 }
@@ -366,6 +366,6 @@ ol li {
 }
 
 .social-link svg {
-    width: 50px; /* Desired icon width */
-    height: 50px; /* Desired icon height */
+    width: 40px; /* Desired icon width */
+    height: 40px; /* Desired icon height */
 }
