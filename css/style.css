@@ -364,3 +364,8 @@ ol li {
 .social-link:hover {
 	transform: scale(1.1);
 }
+
+.social-link svg {
+    width: 60px; /* Desired icon width */
+    height: 60px; /* Desired icon height */
+}
