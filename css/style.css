@@ -217,7 +217,7 @@ a:focus {
 	padding: 10px 0px 0px 40px;
 	margin: 10px;
 	font-size: 21px;
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif /*'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 	font-weight: 300;
 	border-radius: 3px;
 }
