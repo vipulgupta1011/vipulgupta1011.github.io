@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 body {
-
     font-family: 'Open Sans', sans-serif;
-    background-image: linear-gradient(to bottom right, #aec6cf, #e0e0e0);
-    color: #333;
+    background-color: #fdfdfd;
+    background-image: repeating-linear-gradient(45deg, #f0f0f0, #f0f0f0 1px, transparent 1px, transparent 10px);
+    color: #212121;
     line-height: 1.6;
 }
 
@@ -81,18 +81,18 @@ body {
 
 .nav_li a {
 	text-decoration: none;
-	color: #333;
+	color: #1E88E5;
 	font-weight: 500;
 	transition: color 0.3s ease;
 }
 
 .nav_li a:hover {
-	color: #007bff;
+	color: #166db4;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Merriweather', serif;
-	color: #2c3e50;
+	color: #212121;
 }
 
 
@@ -125,18 +125,18 @@ p {
 }
 
 a {
-  color: #008AFF;
+  color: #1E88E5;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #166db4;
 }
 
 
 /* Header Image and Text */
 
 .header {
-	color: black;
+	color: #212121;
 	padding: 10px;
 	margin-left: 25px ;
 	font-family: 'Open Sans', sans-serif;
@@ -145,7 +145,7 @@ a:focus {
 }
 
 .news {
-	color: black;
+	color: #212121;
 	padding: 10px;
 	margin-left: 30px ;
 	font-family: 'Open Sans', sans-serif;
@@ -194,7 +194,7 @@ a:focus {
 }
 
 .sm-text {
-	color: black;
+	color: #212121;
 	display: block;
 	padding: 10px 0px 0px 40px;
 	margin: 5px;
@@ -205,7 +205,7 @@ a:focus {
 }
 
 .sm-text-project {
-	color: black;
+	color: #212121;
 	display: block;
 	padding: 10px 0px 0px 40px;
 	margin: 5px;
@@ -215,7 +215,7 @@ a:focus {
 }
 
 .sm-text-new {
-	color: black;
+	color: #212121;
 	display: block;
 	padding: 10px 0px 0px 40px;
 	margin: 10px;
@@ -226,7 +226,7 @@ a:focus {
 }
 
 .med-text {
-	color: black;
+	color: #212121;
 	display: block;
 	padding: 10px 0px 0px 30px;
 	margin: 15px;
@@ -237,7 +237,7 @@ a:focus {
 }
 
 h1 {
-	color: black;
+	color: #212121;
 	display: block;
 	padding: 10px 10px 10px 30px;
 	font-size: 60px;
@@ -248,7 +248,7 @@ h1 {
 
 
 .half-sm-text {
-	color: black;
+	color: #212121;
 	display: inline-block;
 	padding: 10px 10px 10px 30px;
 	margin: 15px;
@@ -270,7 +270,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #1E88E5;
 }
 
 footer .list-inline {
