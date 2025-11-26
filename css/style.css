@@ -2,22 +2,22 @@
 
 :root {
   /* Core Palette */
-  --bg-dark: #050505;
-  --bg-card: rgba(255, 255, 255, 0.03);
-  --bg-card-hover: rgba(255, 255, 255, 0.06);
-  --border-color: rgba(255, 255, 255, 0.1);
+  --bg-dark: #020204; /* Slightly deeper black */
+  --bg-card: rgba(255, 255, 255, 0.08); /* Increased opacity for better contrast */
+  --bg-card-hover: rgba(255, 255, 255, 0.12);
+  --border-color: rgba(255, 255, 255, 0.2); /* More visible borders */
   --text-main: #ffffff;
-  --text-muted: #a1a1aa;
+  --text-muted: #e2e8f0; /* Much brighter grey (Slate-200) for better readability */
   
-  /* Accents */
-  --accent-lime: #ccff00;
-  --accent-cyan: #00ffff;
-  --accent-pink: #ff00ff;
-  --accent-purple: #bf00ff;
+  /* Accents - Adjusted for pop */
+  --accent-lime: #d9ff00;
+  --accent-cyan: #22d3ee;
+  --accent-pink: #f472b6;
+  --accent-purple: #c084fc;
   
   /* Gradients */
-  --gradient-text: linear-gradient(45deg, #ffffff, #a1a1aa);
-  --gradient-glow: radial-gradient(circle at 50% -20%, rgba(120, 119, 198, 0.1), rgba(0, 0, 0, 0));
+  --gradient-text: linear-gradient(45deg, #ffffff, #cbd5e1);
+  --gradient-glow: radial-gradient(circle at 50% -20%, rgba(120, 119, 198, 0.15), rgba(0, 0, 0, 0));
   
   /* Spacing & Radius */
   --radius-lg: 24px;
@@ -33,13 +33,15 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
   background-color: var(--bg-dark);
   color: var(--text-main);
   min-height: 100vh;
   overflow-x: hidden;
   background-image: 
-    radial-gradient(circle at 15% 50%, rgba(118, 75, 162, 0.08), transparent 25%), 
-    radial-gradient(circle at 85% 30%, rgba(102, 126, 234, 0.08), transparent 25%);
+    radial-gradient(circle at 15% 50%, rgba(118, 75, 162, 0.15), transparent 25%), 
+    radial-gradient(circle at 85% 30%, rgba(102, 126, 234, 0.15), transparent 25%);
 }
 
 /* Typography */
@@ -89,7 +91,7 @@ a:hover {
 .nav-links {
   display: flex;
   gap: 0.5rem;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.1);
   padding: 0.5rem;
   border-radius: var(--radius-full);
   border: 1px solid var(--border-color);
