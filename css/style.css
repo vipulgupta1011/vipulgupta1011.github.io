@@ -373,7 +373,6 @@ a:hover {
 }
 
 /* Lists (Projects, Publications, etc) */
-.project-list ol, 
 .publication-list ol, 
 .blog-list ol,
 .timeline-card ol {
@@ -384,7 +383,6 @@ a:hover {
   gap: 1.5rem;
 }
 
-.project-list li, 
 .publication-list li, 
 .blog-list li {
   position: relative;
@@ -395,7 +393,6 @@ a:hover {
   transition: all 0.3s ease;
 }
 
-.project-list li:hover, 
 .publication-list li:hover, 
 .blog-list li:hover {
   background: var(--bg-card-hover);
@@ -404,7 +401,6 @@ a:hover {
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 
-.project-list li::before, 
 .publication-list li::before, 
 .blog-list li::before {
   counter-increment: item;
